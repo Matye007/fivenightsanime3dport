@@ -1,0 +1,17 @@
+{
+  "name": "Five Nights in Anime 3D Port",
+  "short_name": "FNIA3D",
+  "description": "Port mobile de Five Nights in Anime 3D",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme-color": "#000000",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://placeholder.com",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
